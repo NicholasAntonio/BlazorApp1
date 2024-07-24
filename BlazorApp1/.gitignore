@@ -1,0 +1,10 @@
+# Excluir diretórios de configurações locais do Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.sln.docstates
+
+# Excluir builds e pacotes
+bin/
+obj/
